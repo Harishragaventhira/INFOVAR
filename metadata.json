@@ -1,0 +1,8 @@
+{
+  "name": "VeriShield AI - Misinformation & Harmfulness Analyzer",
+  "description": "A multimodal AI system that analyzes video and text inputs to detect misinformation and calculate societal risk scores using advanced NLP and Gemini-powered logic.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
