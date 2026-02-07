@@ -4,6 +4,11 @@
 INFOVAR is an **AI-powered system** that analyzes text and video content to verify information credibility and assess potential risk or harm. Unlike simple true/false classifiers, INFOVAR generates a **harmfulness score** (0–100) based on multiple risk signals, such as misinformation likelihood, emotional manipulation, and societal impact.
 
 ---
+<img width="1914" height="1025" alt="Screenshot 2026-02-07 165801" src="https://github.com/user-attachments/assets/1632b832-21c6-44db-a551-edf8c43320ca" />
+
+<img width="1913" height="979" alt="Screenshot 2026-02-07 170154" src="https://github.com/user-attachments/assets/104157f6-0ca0-47d2-8101-b08d46322537" />
+
+<img width="1910" height="973" alt="Screenshot 2026-02-07 170052" src="https://github.com/user-attachments/assets/ac7c0c51-6d24-4c20-abab-43c0f153c091" />
 
 ## 🛠 Features
 
